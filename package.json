@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "micro"
+  },
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "micro": "^9.1.4"
+  }
+}
